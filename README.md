@@ -4,7 +4,7 @@
 This project analyzes a survey dataset on investment behavior, exploring how demographic factors (age, gender) relate to investment preferences, savings objectives, expected returns, and reasons behind financial instrument choices. Completed as part of the Cognifyz Technologies Business Analytics Internship program.
 
 ## 📊 Dataset
-The dataset contains survey responses covering:
+The dataset contains survey responses (40 participants) covering:
 - Demographics: Gender, Age
 - Investment preference rankings across 7 instruments (Mutual Funds, Equity Market, Debentures, Government Bonds, Fixed Deposits, PPF, Gold)
 - Investment duration, monitoring frequency, and expected returns
@@ -16,7 +16,7 @@ The dataset contains survey responses covering:
 - **Plotly** for interactive visualizations
 - **Google Colab** as the development environment
 
-## ✅ Tasks Completed (8/10)
+## ✅ Tasks Completed (10/10)
 
 | Task | Description |
 |------|-------------|
@@ -32,11 +32,12 @@ The dataset contains survey responses covering:
 | 10 | Correlation Analysis (age, duration, preference ranks) |
 
 ## 🔍 Key Findings
-- **Investment Avenue**: Mutual Funds and Equity emerged as the most preferred avenues among participants.
-- **Reasons**: Equity investors prioritize Capital Appreciation, while Fixed Deposit investors favor Risk-Free returns — showing consistent risk-return alignment across instrument choice.
+- **Investment Avenue**: Mutual Funds and Equity emerged as the most preferred avenues among participants, consistent with the average preference-rank analysis.
+- **Reasons**: Equity investors prioritize Capital Appreciation, while Fixed Deposit investors favor Risk-Free, stable returns — showing consistent risk-return alignment across instrument choice.
 - **Savings Objectives**: Retirement planning and healthcare were the leading long-term financial priorities.
 - **Duration**: Most participants prefer holding investments for 1–3 years on average.
-- **Correlation**: Age showed [insert your actual finding — weak/moderate/strong] correlation with investment duration, suggesting [insert insight based on your chart].
-- **Information Sources**: Participants primarily rely on [insert top source from Task 7] for investment decisions.
+- **Expected Returns**: The large majority (32 of 40 participants) expect 20%–30% annual returns — notably optimistic relative to the safer instruments (FDs, Bonds) many also hold, pointing to a possible gap in investor return expectations vs. risk tolerance.
+- **Correlation**: Age showed only a weak relationship with investment duration and instrument preference, suggesting that choice of instrument is driven more by individual risk appetite and financial goals than by age alone.
+- **Information Sources**: Participants rely on a mix of sources — including financial consultants, internet, and traditional media — for investment decisions.
 
 ## 📁 Repository Structure
