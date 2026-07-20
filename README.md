@@ -41,6 +41,10 @@ The dataset contains survey responses (40 participants) covering:
 - **Information Sources**: Participants rely on a mix of sources — including financial consultants, internet, and traditional media — for investment decisions.
 
 ## 📁 Repository Structure
+investment-behavior-analysis/
+│
+├── Investment_Behavior_Analysis.ipynb   # Main analysis notebook
+└── README.md                             # Project documentation
 ## 🎯 Business Relevance
 Understanding these patterns helps financial institutions and advisors tailor products to specific demographic segments, correct unrealistic return expectations through investor education, and design better-suited investment recommendations based on stated goals and risk appetite.
 
